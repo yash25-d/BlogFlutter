@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "meetapp-883e1",
+    "deploy": "flutterapp-1327b",
+    "deploying": "meetapp-883e1"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
