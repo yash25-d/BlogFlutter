@@ -1,7 +1,7 @@
-# mediaapp
+# Blog Flutter App
 
 A new Flutter project.
-
+Sign in using email
 ## Getting Started
 
 This project is a starting point for a Flutter application.
